@@ -39,3 +39,6 @@ with(df,plot(attendance,marks_after),
 #dev.off()
 
 ```
+- [x] Turn on GitHub Pages
+- [x] Write down the code
+- [ ] Fix bugs
